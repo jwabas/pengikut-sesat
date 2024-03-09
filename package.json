@@ -1,0 +1,26 @@
+{
+  "name": "pengikut-sesat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwabas/pengikut-sesat.git"
+  },
+  "author": "jwabas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwabas/pengikut-sesat/issues"
+  },
+  "homepage": "https://github.com/jwabas/pengikut-sesat#readme",
+  "dependencies": {
+    "asbakuntul": "^1.0.0",
+    "excavato": "^1.0.0",
+    "excaviar": "^1.0.0",
+    "not-rf-online": "^1.0.0",
+    "rf-notline": "^1.0.0"
+  }
+}
